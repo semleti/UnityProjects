@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Hexa'gone\Assets\stageGenerator.cs">
+    <Files>
+      <File FileName="..\Hexa'gone\Assets\Editor\stageGeneratorEditor.cs" Line="17" Column="59" />
+      <File FileName="..\Hexa'gone\Assets\stageGenerator.cs" Line="51" Column="108" />
+      <File FileName="..\Hexa'gone\Assets\hexagoneField.cs" Line="7" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

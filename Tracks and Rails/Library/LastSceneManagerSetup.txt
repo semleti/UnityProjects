@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/sdcsdv.unity
+  isLoaded: 1
+  isActive: 1
